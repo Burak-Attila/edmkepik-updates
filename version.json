@@ -1,4 +1,4 @@
 {
   "edmkepik":   { "version": "1.0.x", "windows": {"url": "..."}, "mac": {"url": "..."} },
-  "kepsigning": { "version": "1.0.x", "windows": {"url": "..."}, "mac": {"url": "..."} }
+  "kepsigning": { "version": "1.0.1", "windows": {"url": "..."}, "mac": {"url": "..."} }
 }
