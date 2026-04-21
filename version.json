@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-04-21",
+  "releaseNotes": "İlk sürüm",
+  "windows": {
+    "url": ""
+  },
+  "mac": {
+    "url": ""
+  }
+}
